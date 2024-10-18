@@ -3,7 +3,7 @@
 <h3 align="center">A passionate React Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
 
-- 🔭 I’m currently working on **Summer Projects**
+- 🔭 I’m currently working on **Backend Development**
 
 - 👯 I’m looking to collaborate on **Internships**
 
