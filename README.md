@@ -1,15 +1,15 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mustafa Ashraf</h1>
-<h3 align="center">A passionate React Developer from Egypt</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I've worked with **Next.js**, **MERN**, and **MEAN** stacks to build full-stack production-ready web applications.
 
-- 👯 I’m looking to collaborate on **Internships**
+- 👯 Always open to collaborating on **exciting startup ideas** and real-world projects.
 
-- 💬 Ask me about **Web Development , React**
+- 💬 Feel free to ask me anything about **Web Development, React, Angular, or Tailwind CSS!**
 
-- 📫 How to reach me **mustafa.ashraf.saad@gmail.com**
+- 📫 You can reach me at **mustafa.ashraf.saad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
