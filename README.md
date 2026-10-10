@@ -3,16 +3,16 @@
   <img src="assets/mustafa-hero.gif" alt="Mustafa Ashraf Farag — Creative Engineer. AI Agents, Creative Engineering, Teaching. Working with Claude, Cursor and Codex." width="100%">
 </picture>
 
-I build AI agents, craft digital experiences, and teach people to create with AI.
-
-My work connects full-stack engineering with agent workflows, visual storytelling, and hands-on education.
+**AI agents. Creative engineering. Teaching that turns ideas into shipped work.**
 
 | AI Agents | Creative Engineering | Teaching |
 | :--- | :--- | :--- |
 | Agent workflows, MCP integrations and RAG systems. | Full-stack products, interactive interfaces and cinematic motion. | Practical AI workshops and developer community learning. |
 
-### Languages & tools
-
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Languages &amp; tools</h3>
 <p align="left"> 
   <!-- From most complex to most simple -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -46,11 +46,15 @@ My work connects full-stack engineering with agent workflows, visual storytellin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img alt="Coding" width="180" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img alt="Coding" width="320" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
+<p>
+  <a href="https://github.com/MustafaAFarag?tab=repositories"><img src="assets/button-github.svg" alt="Explore my GitHub repositories" height="32"></a>
+  <a href="https://linkedin.com/in/mustafaashrafsaad"><img src="assets/button-linkedin.svg" alt="Connect on LinkedIn" height="32"></a>
+  <a href="mailto:mustafa.ashraf.saad@gmail.com"><img src="assets/button-gmail.svg" alt="Email me" height="32"></a>
 </p>
-
-[Explore my repositories →](https://github.com/MustafaAFarag?tab=repositories)
-
-[LinkedIn](https://linkedin.com/in/mustafaashrafsaad) · [Email](mailto:mustafa.ashraf.saad@gmail.com)
