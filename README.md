@@ -48,13 +48,13 @@
 </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img alt="Coding" width="180" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
+      <img alt="Coding" width="140" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"/>
     </td>
   </tr>
 </table>
 
 <p>
-  <a href="https://github.com/MustafaAFarag?tab=repositories"><img src="assets/button-github.svg" alt="Explore my GitHub repositories" height="32"></a>
-  <a href="https://linkedin.com/in/mustafaashrafsaad"><img src="assets/button-linkedin.svg" alt="Connect on LinkedIn" height="32"></a>
-  <a href="mailto:mustafa.ashraf.saad@gmail.com"><img src="assets/button-gmail.svg" alt="Email me" height="32"></a>
+  <a href="https://github.com/MustafaAFarag?tab=repositories"><img src="assets/button-github.svg" alt="Explore my GitHub repositories" height="28"></a>
+  <a href="https://linkedin.com/in/mustafaashrafsaad"><img src="assets/button-linkedin.svg" alt="Connect on LinkedIn" height="28"></a>
+  <a href="mailto:mustafa.ashraf.saad@gmail.com"><img src="assets/button-gmail.svg" alt="Email me" height="28"></a>
 </p>
